@@ -1,0 +1,110 @@
+body{
+    background-color: blanchedalmond;
+}
+
+
+
+.model{
+   width: 550px;
+  border: 5px solid black;
+  padding: 5px;
+  margin: 100px;
+  background-color: white;
+  
+}
+
+.heading{
+    margin-top: 0px;
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+
+.input-1{
+    font-weight: bold;
+    margin-left: 13px;
+    border: none;
+    border-bottom: 3px solid black;
+    width: 200px;
+}
+
+.input-2{
+    font-weight: bold;
+    margin-left: 110px;
+    width: 200px;
+    border: none;
+    border-bottom: 3px solid black;
+}
+
+.firstname{
+    margin-left: 13px;
+}
+
+.secondname{
+    margin-left: 242px;
+}
+
+.address{
+    font-weight: bold;
+    margin-left: 13px;
+    border: none;
+    border-bottom: 3px solid black;
+    width: 500px;
+}
+
+.addresslable{
+    margin-left: 13px;
+}
+
+.row31{
+    font-weight: bold;
+    margin-left: 13px;
+    border: none;
+    border-bottom: 3px solid black;
+    width: 100px;
+}
+
+.row32{
+    font-weight: bold;
+    margin-left: 50px;
+    border: none;
+    border-bottom: 3px solid black;
+    width: 75px;
+
+}
+
+.row33{
+    font-weight: bold;
+    margin-left: 50px;
+    border: none;
+    border-bottom: 3px solid black;
+}
+
+.row31lable{
+    margin-left: 13px;
+}
+
+.row32lable{
+    margin-left: 125px;
+}
+
+.row33lable{
+    margin-left: 100px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.row6{
+    margin-left: 13px;
+}
+
+table,th,td{
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 400px;
+  height:50px;
+  text-align: center;
+  
+}
